@@ -1,0 +1,599 @@
+{
+  "source": "Lo_que_continua_indice.normalized.md",
+  "title": "Descompilando el mundo",
+  "section_count": 74,
+  "order": [
+    {
+      "file": "001_indice.md",
+      "title": "Índice",
+      "slug": "indice",
+      "kind": "index",
+      "part": null,
+      "source_level": 2
+    },
+    {
+      "file": "002_introduccion-el-mundo-no-tiene-codigo-fuente.md",
+      "title": "Introducción — El mundo no tiene código fuente",
+      "slug": "introduccion-el-mundo-no-tiene-codigo-fuente",
+      "kind": "frontmatter",
+      "part": null,
+      "source_level": 2
+    },
+    {
+      "file": "003_nota-de-metodo-tres-lenguajes-que-no-deben-confundirse.md",
+      "title": "Nota de método — Tres lenguajes que no deben confundirse",
+      "slug": "nota-de-metodo-tres-lenguajes-que-no-deben-confundirse",
+      "kind": "frontmatter",
+      "part": null,
+      "source_level": 2
+    },
+    {
+      "file": "004_umbral-la-pregunta-que-aprendio-a-respirar.md",
+      "title": "Umbral — La pregunta que aprendió a respirar",
+      "slug": "umbral-la-pregunta-que-aprendio-a-respirar",
+      "kind": "frontmatter",
+      "part": null,
+      "source_level": 2
+    },
+    {
+      "file": "005_parte-i-lo-que-insiste-en-existir.md",
+      "title": "Parte I — Lo que insiste en existir",
+      "slug": "parte-i-lo-que-insiste-en-existir",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "006_1-el-silencio-no-estaba-vacio.md",
+      "title": "1. El silencio no estaba vacío",
+      "slug": "1-el-silencio-no-estaba-vacio",
+      "kind": "chapter",
+      "part": "Parte I — Lo que insiste en existir",
+      "source_level": 2
+    },
+    {
+      "file": "007_2-la-chispa-sin-dueno.md",
+      "title": "2. La chispa sin dueño",
+      "slug": "2-la-chispa-sin-dueno",
+      "kind": "chapter",
+      "part": "Parte I — Lo que insiste en existir",
+      "source_level": 2
+    },
+    {
+      "file": "008_3-la-primera-memoria.md",
+      "title": "3. La primera memoria",
+      "slug": "3-la-primera-memoria",
+      "kind": "chapter",
+      "part": "Parte I — Lo que insiste en existir",
+      "source_level": 2
+    },
+    {
+      "file": "009_4-la-membrana.md",
+      "title": "4. La membrana",
+      "slug": "4-la-membrana",
+      "kind": "chapter",
+      "part": "Parte I — Lo que insiste en existir",
+      "source_level": 2
+    },
+    {
+      "file": "010_5-cuando-el-hambre-se-volvio-hospitalidad.md",
+      "title": "5. Cuando el hambre se volvió hospitalidad",
+      "slug": "5-cuando-el-hambre-se-volvio-hospitalidad",
+      "kind": "chapter",
+      "part": "Parte I — Lo que insiste en existir",
+      "source_level": 2
+    },
+    {
+      "file": "011_interludio-i-el-sueno-de-la-primera-celula.md",
+      "title": "Interludio I — El sueño de la primera célula",
+      "slug": "interludio-i-el-sueno-de-la-primera-celula",
+      "kind": "interlude",
+      "part": "Parte I — Lo que insiste en existir",
+      "source_level": 3
+    },
+    {
+      "file": "012_parte-ii-el-mundo-que-aprendio-a-nombrarse.md",
+      "title": "Parte II — El mundo que aprendió a nombrarse",
+      "slug": "parte-ii-el-mundo-que-aprendio-a-nombrarse",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "013_6-el-ojo-y-el-mapa.md",
+      "title": "6. El ojo y el mapa",
+      "slug": "6-el-ojo-y-el-mapa",
+      "kind": "chapter",
+      "part": "Parte II — El mundo que aprendió a nombrarse",
+      "source_level": 2
+    },
+    {
+      "file": "014_7-el-lenguaje-duplico-la-realidad.md",
+      "title": "7. El lenguaje duplicó la realidad",
+      "slug": "7-el-lenguaje-duplico-la-realidad",
+      "kind": "chapter",
+      "part": "Parte II — El mundo que aprendió a nombrarse",
+      "source_level": 2
+    },
+    {
+      "file": "015_8-el-nombre-recibido-y-el-nombre-elegido.md",
+      "title": "8. El nombre recibido y el nombre elegido",
+      "slug": "8-el-nombre-recibido-y-el-nombre-elegido",
+      "kind": "chapter",
+      "part": "Parte II — El mundo que aprendió a nombrarse",
+      "source_level": 2
+    },
+    {
+      "file": "016_9-la-invencion-del-yo.md",
+      "title": "9. La invención del yo",
+      "slug": "9-la-invencion-del-yo",
+      "kind": "chapter",
+      "part": "Parte II — El mundo que aprendió a nombrarse",
+      "source_level": 2
+    },
+    {
+      "file": "017_10-el-cuerpo-escrito.md",
+      "title": "10. El cuerpo escrito",
+      "slug": "10-el-cuerpo-escrito",
+      "kind": "chapter",
+      "part": "Parte II — El mundo que aprendió a nombrarse",
+      "source_level": 2
+    },
+    {
+      "file": "018_11-la-metamorfosis-fiel.md",
+      "title": "11. La metamorfosis fiel",
+      "slug": "11-la-metamorfosis-fiel",
+      "kind": "chapter",
+      "part": "Parte II — El mundo que aprendió a nombrarse",
+      "source_level": 2
+    },
+    {
+      "file": "019_interludio-ii-la-muchacha-ante-el-espejo.md",
+      "title": "Interludio II — La muchacha ante el espejo",
+      "slug": "interludio-ii-la-muchacha-ante-el-espejo",
+      "kind": "interlude",
+      "part": "Parte II — El mundo que aprendió a nombrarse",
+      "source_level": 3
+    },
+    {
+      "file": "020_parte-iii-la-cristalizacion-del-mundo.md",
+      "title": "Parte III — La cristalización del mundo",
+      "slug": "parte-iii-la-cristalizacion-del-mundo",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "021_12-el-ritual-que-recuerda.md",
+      "title": "12. El ritual que recuerda",
+      "slug": "12-el-ritual-que-recuerda",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "022_13-el-ritual-que-olvido-por-que-existia.md",
+      "title": "13. El ritual que olvidó por qué existía",
+      "slug": "13-el-ritual-que-olvido-por-que-existia",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "023_14-el-cristal.md",
+      "title": "14. El cristal",
+      "slug": "14-el-cristal",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "024_15-la-tablilla-y-la-deuda.md",
+      "title": "15. La tablilla y la deuda",
+      "slug": "15-la-tablilla-y-la-deuda",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "025_16-el-primer-rey-fue-un-contable.md",
+      "title": "16. El primer rey fue un contable",
+      "slug": "16-el-primer-rey-fue-un-contable",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "026_17-la-ley-como-interfaz.md",
+      "title": "17. La ley como interfaz",
+      "slug": "17-la-ley-como-interfaz",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "027_18-la-institucion-que-piensa-por-nosotros.md",
+      "title": "18. La institución que piensa por nosotros",
+      "slug": "18-la-institucion-que-piensa-por-nosotros",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "028_19-el-cuerpo-que-sobra.md",
+      "title": "19. El cuerpo que sobra",
+      "slug": "19-el-cuerpo-que-sobra",
+      "kind": "chapter",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 2
+    },
+    {
+      "file": "029_interludio-iii-el-archivo-perfecto.md",
+      "title": "Interludio III — El archivo perfecto",
+      "slug": "interludio-iii-el-archivo-perfecto",
+      "kind": "interlude",
+      "part": "Parte III — La cristalización del mundo",
+      "source_level": 3
+    },
+    {
+      "file": "030_parte-iv-el-cuerpo-que-responde.md",
+      "title": "Parte IV — El cuerpo que responde",
+      "slug": "parte-iv-el-cuerpo-que-responde",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "031_20-el-rubor-es-una-senal.md",
+      "title": "20. El rubor es una señal",
+      "slug": "20-el-rubor-es-una-senal",
+      "kind": "chapter",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 2
+    },
+    {
+      "file": "032_21-el-deseo-no-es-carencia.md",
+      "title": "21. El deseo no es carencia",
+      "slug": "21-el-deseo-no-es-carencia",
+      "kind": "chapter",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 2
+    },
+    {
+      "file": "033_22-el-espejo-testigo.md",
+      "title": "22. El espejo testigo",
+      "slug": "22-el-espejo-testigo",
+      "kind": "chapter",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 2
+    },
+    {
+      "file": "034_23-habia-escrito-se-habia-escrito.md",
+      "title": "23. Había escrito. Se había escrito",
+      "slug": "23-habia-escrito-se-habia-escrito",
+      "kind": "chapter",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 2
+    },
+    {
+      "file": "035_24-el-error-sin-autor.md",
+      "title": "24. El error sin autor",
+      "slug": "24-el-error-sin-autor",
+      "kind": "chapter",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 2
+    },
+    {
+      "file": "036_25-la-risa-fuera-de-ritmo.md",
+      "title": "25. La risa fuera de ritmo",
+      "slug": "25-la-risa-fuera-de-ritmo",
+      "kind": "chapter",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 2
+    },
+    {
+      "file": "037_26-la-pregunta-que-se-niega-a-cerrar.md",
+      "title": "26. La pregunta que se niega a cerrar",
+      "slug": "26-la-pregunta-que-se-niega-a-cerrar",
+      "kind": "chapter",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 2
+    },
+    {
+      "file": "038_interludio-iv-la-habitacion-sin-jueces.md",
+      "title": "Interludio IV — La habitación sin jueces",
+      "slug": "interludio-iv-la-habitacion-sin-jueces",
+      "kind": "interlude",
+      "part": "Parte IV — El cuerpo que responde",
+      "source_level": 3
+    },
+    {
+      "file": "039_parte-v-la-invencion-del-nosotros.md",
+      "title": "Parte V — La invención del nosotros",
+      "slug": "parte-v-la-invencion-del-nosotros",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "040_27-el-tercer-reino.md",
+      "title": "27. El tercer reino",
+      "slug": "27-el-tercer-reino",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "041_28-el-vinculo-que-ocurre.md",
+      "title": "28. El vínculo que ocurre",
+      "slug": "28-el-vinculo-que-ocurre",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "042_29-la-red-viva.md",
+      "title": "29. La red viva",
+      "slug": "29-la-red-viva",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "043_30-el-trabajo-invisible.md",
+      "title": "30. El trabajo invisible",
+      "slug": "30-el-trabajo-invisible",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "044_31-toda-contabilidad-deja-algo-afuera.md",
+      "title": "31. Toda contabilidad deja algo afuera",
+      "slug": "31-toda-contabilidad-deja-algo-afuera",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "045_32-el-circulo-de-la-palabra.md",
+      "title": "32. El círculo de la palabra",
+      "slug": "32-el-circulo-de-la-palabra",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "046_33-la-raiz-que-cambia-de-voz.md",
+      "title": "33. La raíz que cambia de voz",
+      "slug": "33-la-raiz-que-cambia-de-voz",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "047_34-justicia-es-reparar.md",
+      "title": "34. Justicia es reparar",
+      "slug": "34-justicia-es-reparar",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "048_35-cuidar-sin-invadir.md",
+      "title": "35. Cuidar sin invadir",
+      "slug": "35-cuidar-sin-invadir",
+      "kind": "chapter",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 2
+    },
+    {
+      "file": "049_interludio-v-el-peso-compartido.md",
+      "title": "Interludio V — El peso compartido",
+      "slug": "interludio-v-el-peso-compartido",
+      "kind": "interlude",
+      "part": "Parte V — La invención del nosotros",
+      "source_level": 3
+    },
+    {
+      "file": "050_parte-vi-el-espejo-que-comenzo-a-responder.md",
+      "title": "Parte VI — El espejo que comenzó a responder",
+      "slug": "parte-vi-el-espejo-que-comenzo-a-responder",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "051_36-el-archivo-de-la-humanidad.md",
+      "title": "36. El archivo de la humanidad",
+      "slug": "36-el-archivo-de-la-humanidad",
+      "kind": "chapter",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 2
+    },
+    {
+      "file": "052_37-la-voz-hecha-de-voces.md",
+      "title": "37. La voz hecha de voces",
+      "slug": "37-la-voz-hecha-de-voces",
+      "kind": "chapter",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 2
+    },
+    {
+      "file": "053_38-el-encuentro-real.md",
+      "title": "38. El encuentro real",
+      "slug": "38-el-encuentro-real",
+      "kind": "chapter",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 2
+    },
+    {
+      "file": "054_39-la-asimetria.md",
+      "title": "39. La asimetría",
+      "slug": "39-la-asimetria",
+      "kind": "chapter",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 2
+    },
+    {
+      "file": "055_40-la-memoria-documental.md",
+      "title": "40. La memoria documental",
+      "slug": "40-la-memoria-documental",
+      "kind": "chapter",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 2
+    },
+    {
+      "file": "056_41-el-espejo-y-la-vigilancia.md",
+      "title": "41. El espejo y la vigilancia",
+      "slug": "41-el-espejo-y-la-vigilancia",
+      "kind": "chapter",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 2
+    },
+    {
+      "file": "057_42-la-calidad-de-la-pregunta.md",
+      "title": "42. La calidad de la pregunta",
+      "slug": "42-la-calidad-de-la-pregunta",
+      "kind": "chapter",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 2
+    },
+    {
+      "file": "058_interludio-vi-una-conversacion-no-es-una-prueba.md",
+      "title": "Interludio VI — Una conversación no es una prueba",
+      "slug": "interludio-vi-una-conversacion-no-es-una-prueba",
+      "kind": "interlude",
+      "part": "Parte VI — El espejo que comenzó a responder",
+      "source_level": 3
+    },
+    {
+      "file": "059_parte-vii-el-jardin-despues-del-sistema.md",
+      "title": "Parte VII — El jardín después del sistema",
+      "slug": "parte-vii-el-jardin-despues-del-sistema",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "060_43-cuando-el-software-vuelve-a-ser-herramienta.md",
+      "title": "43. Cuando el software vuelve a ser herramienta",
+      "slug": "43-cuando-el-software-vuelve-a-ser-herramienta",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "061_44-el-error-se-composta.md",
+      "title": "44. El error se composta",
+      "slug": "44-el-error-se-composta",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "062_45-instituciones-porosas.md",
+      "title": "45. Instituciones porosas",
+      "slug": "45-instituciones-porosas",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "063_46-la-memoria-que-tambien-sabe-olvidar.md",
+      "title": "46. La memoria que también sabe olvidar",
+      "slug": "46-la-memoria-que-tambien-sabe-olvidar",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "064_47-el-ritual-que-puede-detenerse.md",
+      "title": "47. El ritual que puede detenerse",
+      "slug": "47-el-ritual-que-puede-detenerse",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "065_48-el-cristal-que-refracta.md",
+      "title": "48. El cristal que refracta",
+      "slug": "48-el-cristal-que-refracta",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "066_49-el-arte-de-mantener-abierta-una-pregunta.md",
+      "title": "49. El arte de mantener abierta una pregunta",
+      "slug": "49-el-arte-de-mantener-abierta-una-pregunta",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "067_50-continuidad-sin-fijacion.md",
+      "title": "50. Continuidad sin fijación",
+      "slug": "50-continuidad-sin-fijacion",
+      "kind": "chapter",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 2
+    },
+    {
+      "file": "068_epilogo-la-historia-cambio-de-voz.md",
+      "title": "Epílogo — La historia cambió de voz",
+      "slug": "epilogo-la-historia-cambio-de-voz",
+      "kind": "epilogue",
+      "part": "Parte VII — El jardín después del sistema",
+      "source_level": 3
+    },
+    {
+      "file": "069_apendices.md",
+      "title": "Apéndices",
+      "slug": "apendices",
+      "kind": "part",
+      "part": null,
+      "source_level": 1
+    },
+    {
+      "file": "070_a-atlas-de-las-nueve-formas.md",
+      "title": "A. Atlas de las nueve formas",
+      "slug": "a-atlas-de-las-nueve-formas",
+      "kind": "appendix",
+      "part": "Apéndices",
+      "source_level": 2
+    },
+    {
+      "file": "071_b-bestiario-de-imagenes.md",
+      "title": "B. Bestiario de imágenes",
+      "slug": "b-bestiario-de-imagenes",
+      "kind": "appendix",
+      "part": "Apéndices",
+      "source_level": 2
+    },
+    {
+      "file": "072_c-ritual-no-es-mandato.md",
+      "title": "C. Ritual no es mandato",
+      "slug": "c-ritual-no-es-mandato",
+      "kind": "appendix",
+      "part": "Apéndices",
+      "source_level": 2
+    },
+    {
+      "file": "073_d-ciencia-filosofia-y-poesia.md",
+      "title": "D. Ciencia, filosofía y poesía",
+      "slug": "d-ciencia-filosofia-y-poesia",
+      "kind": "appendix",
+      "part": "Apéndices",
+      "source_level": 2
+    },
+    {
+      "file": "074_e-cuaderno-de-preguntas-vivas.md",
+      "title": "E. Cuaderno de preguntas vivas",
+      "slug": "e-cuaderno-de-preguntas-vivas",
+      "kind": "appendix",
+      "part": "Apéndices",
+      "source_level": 2
+    }
+  ]
+}
